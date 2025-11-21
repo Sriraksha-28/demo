@@ -1,8 +1,6 @@
 "use client";
 
-import { useRouter } from "next/navigation";
-  export default function Landing(){
-    const router = useRouter();
+  export default function Home(){
       return(
           <div className='bg-violet-100 dark:bg-black'>
           <div className="  item  h-[850px] items-center bg-black rounded-[80px] brown-relative flex flex-col mx-[10px]">
