@@ -44,7 +44,7 @@ import { useRouter } from "next/navigation";
                 alt="Cart"
                 className="h-[50px] w-[50px] rounded-[80px] absolute top-10 left-280 transform--translate x-50-translate-y-0 flex gap-15"
                 />
-                <button className="h-[60] w-[100] absolute top-10 left-310 transform-translate-x-0 bg-red-600 text-white font-bold py-3 px-15 rounded-full hover:bg-red-700 transition duration-300">Register Now</button>
+                <button className="h-[40px] w-[150] absolute top-10 left-310 transform-translate-x-0 bg-red-600 text-white font-bold py-3 px-5 rounded-full hover:bg-red-700 transition duration-300">Register Now</button>
               
               </div>
 

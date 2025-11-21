@@ -28,15 +28,16 @@ export default function Menu(){
                 className="hidden md:block font-bold text-white ml-[40px] text-md mt-2.5 mr-[10]">
                   Menu
                 </a>
-                <a
-               href="/blogs"
-                className="hidden md:block font-bold text-white ml-[40px] text-md mt-2.5 mr-[10]">
-                  Blogs
-                </a>
+      
                 <a
                href="/shop"
                 className="hidden md:block font-bold text-white ml-[40px] text-md mt-2.5 mr-[10]">
                   Shops
+                </a>
+                <a
+               href="/blogs"
+                className="hidden md:block font-bold text-white ml-[40px] text-md mt-2.5 mr-[10]">
+                  Blogs
                 </a>
               
               </div>
@@ -44,7 +45,7 @@ export default function Menu(){
                 alt="Cart"
                 className="h-[50px] w-[50px] rounded-[10px] absolute top-10 left-280 transform--translate x-50-translate-y-0 flex gap-15"
                 />
-                <button className="h-[60] w-[100] absolute top-10 left-310 transform-translate-x-0 bg-red-600 text-white font-bold py-3 px-15 rounded-full hover:bg-red-700 transition duration-300">Register Now</button>
+                <button className="h-[60px] w-[150px] absolute top-10 left-310 transform-translate-x-0 bg-red-600 text-white font-bold py-6 px-5 rounded-full hover:bg-red-700 transition duration-300">Register Now</button>
               </div>
               <div className="h-[40%] hidden md:block flex-row  md-50">
           <img
