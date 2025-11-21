@@ -17,9 +17,9 @@ export default function Pages() {
                   Home
                 </a>
               <a
-               href="/pages"
+               href="/about"
                 className="hidden md:block font-bold text-white ml-[40px] text-md mt-2.5 mr-[10]">
-                  Pages
+                    Pages
                 </a>
             <a
                href="/menu"
